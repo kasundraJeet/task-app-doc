@@ -5,16 +5,15 @@ import Script from "next/script";
  * @type {import('nextra-theme-blinkshell').DocsThemeConfig}
  */
 export default {
-  projectLink: "https://github.com/blinksh/docs",
-  docsRepositoryBase: "https://github.com/blinksh/docs/blob/master/src/pages",
+  projectLink: "https://github.com/kasundraJeet/task-app-doc",
+  docsRepositoryBase:
+    "https://github.com/kasundraJeet/task-app-doc/tree/main/src/pages",
   titleSuffix: " – Jeet kasundra",
   logo: (
     <>
-      <span className="mr-2 ml-2 font-extrabold hidden md:inline">
-       Task
-      </span>
+      <span className="mr-2 ml-2 font-extrabold hidden md:inline">Task</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-       Manager App
+        Manager App
       </span>
     </>
   ),
