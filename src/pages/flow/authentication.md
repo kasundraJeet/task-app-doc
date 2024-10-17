@@ -11,8 +11,9 @@ During sign-up, users are required to provide:
 
 1. First Name
 2. Last Name
-3. Email Address
-4. Set a Password
+3. Phone number
+4. Email Address
+5. Set a Password
 
 Users can alternatively sign up using **GitHub** or **Google** for quick registration.
 
