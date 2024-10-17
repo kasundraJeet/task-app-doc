@@ -8,7 +8,7 @@ export default {
   projectLink: "https://github.com/kasundraJeet/task-app-doc",
   docsRepositoryBase:
     "https://github.com/kasundraJeet/task-app-doc/tree/main/src/pages",
-  titleSuffix: " – Jeet kasundra",
+  titleSuffix: " – Task Management System by Jeet kasundra",
   logo: (
     <>
       <span className="mr-2 ml-2 font-extrabold hidden md:inline">Task</span>
