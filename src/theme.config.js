@@ -19,6 +19,7 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
+      <meta name="google-site-verification" content="pUVgq7a0APq64qKwIeon4iH6g9N2HgJeDbp1Lk7I4RE" />
       <meta
         name="description"
         content="Task Management System documentation by Jeet kasundra"
