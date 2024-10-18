@@ -1,43 +1,30 @@
-# Authentication Flow
+# Landing Page Documentation
 
-## 1. Landing Page
+## Header
+- **Logo**: Include the company logo at the top left.
+- **Navigation**: On the top right, have the following navigation links:
+  - Login button
+  - Signup button
 
-When users first visit the website, they are greeted with a landing page that includes options to **Login** or **Sign Up**.
-Once they select "Get Started," they are redirected to the appropriate authentication flow.
+## Hero Section
+- **Title**: Welcome to the Ultimate Task Management System
+- **Description**: A seamless way to manage your tasks, collaborate with your team in real-time, and stay organized.
+- **Button**: A button labeled "Get Started" to guide users to sign up or explore the system.
 
-## 2. Sign-Up Process
+## Features Section
+### Key Features of Our Task Management System:
+1. **User-Friendly Interface**: Intuitive design, easy to navigate for all users.
+2. **Notifications and Alerts**: Stay up to date with real-time notifications and alerts.
+3. **Real-time Collaboration**: Work together with your team instantly, no matter where they are.
+4. **Full Privacy**: Your data is fully protected, ensuring privacy across the entire system.
+5. **Open Source**: Our platform is open source, allowing for flexibility and customization.
+6. **Security and Access Control**: Strong security measures with role-based access control for users.
+7. **Localization and Accessibility**: Adapted for various languages and accessibility needs, ensuring an inclusive experience.
 
-During sign-up, users are required to provide:
+## Footer
+- **Logo**: Display the company logo in the footer.
+- **Social Media Links**: Include icons and links to social media platforms (e.g., Facebook, Twitter, LinkedIn, GitHub).
 
-1. First Name
-2. Last Name
-3. Email Address
-4. Set a Password
-
-Users can alternatively sign up using **GitHub** or **Google** for quick registration.
-
-## 3. Sign-In Process
-
-Users can sign in using one of the following methods:
-
-1. Email and Password
-2. Google Authentication
-3. GitHub Authentication
-
-## 4. Forgot Password
-
-If a user forgets their password:
-
-1. They can request a password reset by entering their registered email.
-2. An OTP (One-Time Password) will be sent to their email for verification.
-3. After OTP verification, the user is given the option to create a new password.
-4. Once the new password is set, they can continue to log in and get started.
-
-
-## 5. First Login
-
-The first login of the platform is reserved for the **Super Admin** account, which will have access to advanced administrative features.
-
-## 6. Returning Users
-
-Once a user logs in on a device, they won't be shown the landing page again for subsequent visits from the same device.
+## Additional Notes
+- Ensure the layout is responsive, making it look great on both desktop and mobile.
+- Keep the design simple and focused on clear user actions.
