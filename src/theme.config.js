@@ -1,9 +1,5 @@
 import * as React from "react";
-import Script from "next/script";
 
-/**
- * @type {import('nextra-theme-blinkshell').DocsThemeConfig}
- */
 export default {
   projectLink: "https://github.com/kasundraJeet/task-app-doc",
   docsRepositoryBase:
@@ -25,54 +21,19 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta
         name="description"
-        content="Blink Shell: The top mobile terminal for Apple devices. Blazing fast, full-featured, and loved by developers around the world. It's giving you the freedom to develop anywhere, anytime."
+        content="Task Management System documentation by Jeet kasundra"
       />
       <meta
         name="og:description"
-        content="Blink Shell: The top mobile terminal for Apple devices. Blazing fast, full-featured, and loved by developers around the world. It's giving you the freedom to develop anywhere, anytime."
+        content="Task Management System documentation by Jeet kasundra"
       />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:handle" content="blinkshell" />
-      <meta name="twitter:image" content="https://blink.sh/og.png" />
-      <meta name="twitter:site:domain" content="blink.sh" />
-      <meta name="twitter:url" content="https://blink.sh" />
       <meta
         name="og:title"
-        content="Blink Shell: Blink Shell: The top mobile terminal for Apple devices."
+        content="Task Management System documentation by Jeet kasundra"
       />
-      <meta name="og:image" content="https://docs.blink.sh/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Blink Shell" />
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-icon-180x180.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="/android-icon-192x192.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="/favicon-96x96.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      />
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
-      <meta name="apple-itunes-app" content="app-id=1594898306" />
+      <link rel="sitemap" href="/sitemap.xml" />
+      <link rel="robots" href="/robots.txt" />
+      <meta name="robots" content="index, follow" />
     </>
   ),
   search: true,
